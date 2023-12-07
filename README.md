@@ -15,7 +15,6 @@ Description: CSV file containing data for HR analytics.
 ### US_Accidents.pbix
 Description: Power BI file related to US accidents data.
 
-Feel free to customize the descriptions based on the actual content of each file. If there are specific instructions or dependencies, make sure to include them in the README file as well.
 
 
 
